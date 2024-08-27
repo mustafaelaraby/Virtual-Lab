@@ -1,3 +1,5 @@
+Questions:
+
 What should you do if a chemical spills on your skin?
 Why is it important to wear safety goggles in the lab?
 What is the purpose of a fume hood?
@@ -7,6 +9,8 @@ Why is it important to label all containers in the lab?
 What is the correct way to smell a chemical if instructed to do so?
 How should you dispose of chemical waste?
 -----------------------------------------------
+Answers
+
 immediately rinse the affected area with plenty of water and notify your instructor.
 
 Safety goggles protect your eyes from chemical splashes, flying debris, and other hazards.
